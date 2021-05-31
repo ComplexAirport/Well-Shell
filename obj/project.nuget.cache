@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "V8OILw6tcNjmhRyvdy5rSSilzgi0aLgYMy+FSlCDvMCG+7RszKYYr3BFjJebxlnDyNutIiY69tCyZdby/Aee4w==",
+  "success": true,
+  "projectFilePath": "/run/media/david/New Volume/Programming/C#/WellShell/WellShell.csproj",
+  "expectedPackageFiles": [
+    "/home/david/.nuget/packages/microsoft.aspnetcore.app.ref/5.0.0/microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
